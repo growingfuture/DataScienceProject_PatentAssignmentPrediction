@@ -4,7 +4,7 @@
 ## Process
 1. Crawling the patent from USPTO & Google Patents
   * Crawling data from USPTO & Google Patents
-  * query == 
+  * query == 'CPCL/G06Q and ISD/1/1/2005->1/1/2017'
 2. Preprocessing
   * Set the y & x columns
 3. Basic statistical analysis
