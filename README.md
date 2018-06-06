@@ -1,4 +1,4 @@
-# DataScienceProject_PatentAssignmentPrediction
+# PatentAssignmentPrediction
 ### prdict patent assignment with PCA and logistic regression
 
 ## Process
